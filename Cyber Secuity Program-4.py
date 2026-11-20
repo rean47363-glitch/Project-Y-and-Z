@@ -1,14 +1,8 @@
-import math
+import math //////$
 p=3
-q=7
+q=7$%
 n=p*q
-print("n=",n)
-phi=(p-1)*(q-1)
-print("phi=",phi)
-
-e=2
-while e<phi:
-    if math.gcd(e,phi)==1:
+print("n=",n)FFFcvbdsssssssss5685254*&^%^(*#^
         break
     else:
       e=e+1

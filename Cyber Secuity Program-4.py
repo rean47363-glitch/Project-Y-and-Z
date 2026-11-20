@@ -1,8 +1,8 @@
-import math //////$
+import math 
 p=3
 q=7$%
 n=p*q
-print("n=",n)FFFcvbdsssssssss5685254*&^%^(*#^
+print("n=",n)
         break
     else:
       e=e+1
